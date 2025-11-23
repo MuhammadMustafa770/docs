@@ -1,4 +1,4 @@
----
+---Allow network access
 title: Allowing access to GitHub's services from a restricted network
 intro: "If your network restricts access to specific domains, a network administrator may be able to grant access to {% data variables.product.company_short %}'s services by creating exceptions for {% data variables.product.company_short %}'s domain names."
 versions:
